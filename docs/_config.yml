@@ -27,9 +27,11 @@ email: manogna@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is where I review or vent about stuff.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jatsakthi.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://manogna1409.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: manovenna
 github_username:  manogna1409
+
+google_analytics: G-B7KHYNTRMV
 
 # Build settings
 theme: jekyll-theme-cayman
