@@ -32,7 +32,7 @@ twitter_username: manovenna
 github_username:  manogna1409
 
 # Build settings
-theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
