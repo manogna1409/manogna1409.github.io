@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "MAID Review "
+title:  "MAID Review"
 date:   2022-11-14 02:48:34 -0800
 categories: jekyll update
 ---
